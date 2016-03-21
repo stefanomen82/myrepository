@@ -7,7 +7,7 @@ public class Main {
 
         System.out.println("This is the main class!");
         System.out.println("It works!Modification on second branch");
-        System.out.println("This modification has been done on second branch, directly to github. And now from IDE");
+        System.out.println("This modification has been done on second branch, directly to github. And now from IDE. MAIN");
 
     }
 }
